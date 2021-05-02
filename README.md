@@ -7,4 +7,6 @@ Using simple Linear Regression Model, we forecast the marks of a student based o
 
 
 Language Used - Python 
+
+
 Tool(s) Used - Jupyter Notebook
